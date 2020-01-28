@@ -1,0 +1,9 @@
+body {
+  background-image: url(/img/main.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+iframe {
+  border-style: none;
+}

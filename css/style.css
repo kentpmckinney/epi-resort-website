@@ -21,3 +21,11 @@ iframe {
   color: hsl(234, 91%, 35%);
   overflow: hidden;
 }
+
+.nav-link {
+  font-size: 18pt !important;
+}
+
+.navbar-brand {
+  font-size: 22pt !important;
+}

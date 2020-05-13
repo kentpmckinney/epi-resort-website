@@ -1,7 +1,7 @@
 <!-- Category: Epicodus;HTML/CSS/JS -->
 # Resort Website
 
-User interface presenting a resort website
+A web site for a resort
 
 https://github.com/kentpmckinney/epi-resort-website
 
@@ -31,17 +31,9 @@ Git (optional but recommended)
 2. Navigate to the folder location of the source files in Finder or in the Terminal
 3. Launch a web browser so that it opens index.html
 
-## Running Automated Tests
-
-how to run the automated tests
-
-```
-example
-```
-
 ## Deployment
 
-
+Source files are deployable as-is
 
 ## Technologies Used
 
@@ -56,3 +48,5 @@ Kent McKinney - [GitHub](https://github.com/kentpmckinney) - [LinkedIn](https://
 ### Copyright &copy; 2020 Kent P. McKinney
 
 ## Acknowledgments
+
+https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/practice-branching-and-merging
